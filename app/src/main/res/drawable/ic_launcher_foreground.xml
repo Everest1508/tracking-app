@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Winding Route Path -->
+    <path
+        android:pathData="M 32 76 C 32 60, 50 64, 54 50 C 58 36, 76 42, 76 28"
+        android:strokeWidth="6"
+        android:strokeColor="#10B981"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+        
+    <!-- Path Waypoint Dots -->
+    <path
+        android:pathData="M32,76 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0"
+        android:fillColor="#34D399" />
+    <path
+        android:pathData="M54,50 m-3,0 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0"
+        android:fillColor="#34D399" />
+
+    <!-- Location Pin at End -->
+    <path
+        android:pathData="M 76 16 C 70.477 16 66 20.477 66 26 C 66 33.5 76 44 76 44 C 76 44 86 33.5 86 26 C 86 20.477 81.523 16 76 16 Z M 76 29 C 74.343 29 73 27.657 73 26 C 73 24.343 74.343 23 76 23 C 77.657 23 79 24.343 79 26 C 79 27.657 77.657 29 76 29 Z"
+        android:fillColor="#F43F5E" />
+</vector>

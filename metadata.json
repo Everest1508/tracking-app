@@ -1,0 +1,6 @@
+{
+  "name": "PathTracker",
+  "description": "Background location tracking with interactive Leaflet OpenStreetMap, road snapping, noise smoothing, and offline sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
